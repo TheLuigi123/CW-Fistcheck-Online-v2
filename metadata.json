@@ -1,0 +1,7 @@
+{
+  "name": "CW Fistcheck Online",
+  "description": "A professional Morse code training tool that analyzes your keying (fist) rhythm against ideal timing. Features real-time visualization.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
